@@ -1,0 +1,254 @@
+<<<<<<< HEAD
+<!DOCTYPE HTML>
+<!--
+<html = lang"es">
+-->
+<html>
+	<head>
+		<title>TALLER HTML5 GRILLO SEBASTIAN</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+        
+			<header id="header" class="alt">
+				<div class="inner">
+					<h1>INDUSTRIAS GH</h1>
+					<p>TECNOLOGIA Y DESARROLLO PARA EL GNC</p>
+ 
+			  </div>
+			</header>
+            <nav class="menu">
+             <menu>
+				<li>
+				  <div align="center"><a href="#" accesskey="1" title="">INICIO</a></div>
+				</li>
+				<li>
+				  <div align="center"><a href="#" accesskey="2" title="">NOSOTROS</a></div>
+				</li>
+				<li>
+				  <div align="center"><a href="#" accesskey="3" title="">MEZCLADORES</a></div>
+				</li>
+				<li>
+				  <div align="justify"><a href="#" accesskey="4" title="">RAMPA INYECTORES</a>				    </div>
+				</li>
+				<li>
+				  <div align="center"><a href="#" accesskey="5" title="">CONTACTO</a></div>
+				</li>
+			 </menu> 
+            </nav>
+            
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Banner -->
+					<section id="intro" class="main">
+						<span class="formerize-placeholder"></span>
+						<h2>INDUSTRIAS GH</h2>
+						<p>Una PIME familiar que trabaja desde hace 33 años en el rubro del GNC, ofreciendo productos de calidad y con un desarrollo propio, que atiende las necesidades de cada cliente..</p>
+						<ul class="actions">
+							<li><a href="#" class="button big">LEER MAS</a></li>
+						</ul>
+					</section>
+
+				<!-- Items -->
+					<section class="main items">
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic01.jpg" alt="" /></a>
+								<h3>MEZCLADOR LINEA INYECCCION, PICO ROSCADO</h3>
+							</header>
+							<p>Mezcladores inyeccion aire-gas GH diseñados especialmente para cada modelo.  cuerpo de aluminio y boquilla de hierro zincado pegada con resina epoxica. de venturi fijo especialmente diseñado, para la optima mezcla aire-gas.</p>
+							<ul class="actions">
+								<li><a href="#" class="button">LEER MAS</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic02.jpg" alt="" /></a>
+								<h3>RAMPA 3 OHMS GH PUMA 2</h3>
+							</header>
+							<p>RAMPA INYECTORES GNC GH1, PARA MOTORES 4 CILINDROS. ADAPTABLE A CUALQUIER MODELO DE ELECTRONICA. CUERPO DE NYLON NEGRO RESISTENTE A ALTAS TEMPERATURAS Y BAJO NIVEL SONORO. CON BOBINA DE 3 Ohms..</p>
+							<ul class="actions">
+								<li><a href="#" class="button">LEER MAS</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic03.jpg" alt="" /></a>
+								<h3>MEZCLADOR LINEA INYECCION PICO FIJO ASPIRADO</h3>
+							</header>
+							<p>Mezcladores carburados y especiales aire-gas GH diseñados especialmente para cada modelo. cuerpo de aluminio y boquilla de hierro zincado pegada con resina epoxica. de venturi fijo especialmente diseñado, para la optima mezcla aire-gas</p>
+							<ul class="actions">
+								<li><a href="#" class="button">LEER MAS</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic04.jpg" alt="" /></a>
+								<h3>RAMPA RAPIDA 2 OHMS GH PUMA 1</h3>
+							</header>
+							<p>RAMPA INYECTORES GNC GH2 RAPIDA,  PARA MOTORES 4 CILINDROS. ADAPTABLE A CUALQUIER MODELO DE ELECTRONICA. CUERPO DE NYLON NEGRO RESISTENTE A ALTAS TEMPERATURAS Y BAJO NIVEL SONORO. CON BOBINA DE 2 Ohms.</p>
+							<ul class="actions">
+								<li><a href="#" class="button">LEER MAS</a></li>
+							</ul>
+						</article>
+					</section>
+
+				<!-- CTA -->
+					<section id="cta" class="main special">
+						
+
+				<!-- Main -->
+				<!--
+					<section id="main" class="main">
+						<header>
+							<h2>Lorem ipsum dolor</h2>
+						</header>
+						<p>Fusce malesuada efficitur venenatis. Pellentesque tempor leo sed massa hendrerit hendrerit. In sed feugiat est, eu congue elit. Ut porta magna vel felis sodales vulputate. Donec faucibus dapibus lacus non ornare. Etiam eget neque id metus gravida tristique ac quis erat. Aenean quis aliquet sem. Ut ut elementum sem. Suspendisse eleifend ut est non dapibus. Nulla porta, neque quis pretium sagittis, tortor lacus elementum metus, in imperdiet ante lorem vitae ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam eget neque id metus gravida tristique ac quis erat. Aenean quis aliquet sem. Ut ut elementum sem. Suspendisse eleifend ut est non dapibus. Nulla porta, neque quis pretium sagittis, tortor lacus elementum metus, in imperdiet ante lorem vitae ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+					</section>
+				-->
+
+				<!-- Footer -->
+	
+						</ul>
+						<p class="copyright">&copy; Grillo Sebastian: Todos los derechos reservados a INDUSTRIAS GH. </div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+=======
+<!DOCTYPE HTML>
+<!--
+<html = lang"es">
+-->
+<html>
+	<head>
+		<title>TALLER HTML5 GRILLO SEBASTIAN</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+        
+			<header id="header" class="alt">
+				<div class="inner">
+					<h1>INDUSTRIAS GH</h1>
+					<p>TECNOLOGIA Y DESARROLLO PARA EL GNC</p>
+ 
+			  </div>
+			</header>
+            <nav class="menu">
+             <menu>
+				<li>
+				  <div align="center"><a href="#" accesskey="1" title="">INICIO</a></div>
+				</li>
+				<li>
+				  <div align="center"><a href="#" accesskey="2" title="">NOSOTROS</a></div>
+				</li>
+				<li>
+				  <div align="center"><a href="#" accesskey="3" title="">MEZCLADORES</a></div>
+				</li>
+				<li>
+				  <div align="justify"><a href="#" accesskey="4" title="">RAMPA INYECTORES</a>				    </div>
+				</li>
+				<li>
+				  <div align="center"><a href="#" accesskey="5" title="">CONTACTO</a></div>
+				</li>
+			 </menu> 
+            </nav>
+            
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Banner -->
+					<section id="intro" class="main">
+						<span class="formerize-placeholder"></span>
+						<h2>INDUSTRIAS GH</h2>
+						<p>Una PIME familiar que trabaja desde hace 33 años en el rubro del GNC, ofreciendo productos de calidad y con un desarrollo propio, que atiende las necesidades de cada cliente..</p>
+						<ul class="actions">
+							<li><a href="#" class="button big">LEER MAS</a></li>
+						</ul>
+					</section>
+
+				<!-- Items -->
+					<section class="main items">
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic01.jpg" alt="" /></a>
+								<h3>MEZCLADOR LINEA INYECCCION, PICO ROSCADO</h3>
+							</header>
+							<p>Mezcladores inyeccion aire-gas GH diseñados especialmente para cada modelo.  cuerpo de aluminio y boquilla de hierro zincado pegada con resina epoxica. de venturi fijo especialmente diseñado, para la optima mezcla aire-gas.</p>
+							<ul class="actions">
+								<li><a href="#" class="button">LEER MAS</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic02.jpg" alt="" /></a>
+								<h3>RAMPA 3 OHMS GH PUMA 2</h3>
+							</header>
+							<p>RAMPA INYECTORES GNC GH1, PARA MOTORES 4 CILINDROS. ADAPTABLE A CUALQUIER MODELO DE ELECTRONICA. CUERPO DE NYLON NEGRO RESISTENTE A ALTAS TEMPERATURAS Y BAJO NIVEL SONORO. CON BOBINA DE 3 Ohms..</p>
+							<ul class="actions">
+								<li><a href="#" class="button">LEER MAS</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic03.jpg" alt="" /></a>
+								<h3>MEZCLADOR LINEA INYECCION PICO FIJO ASPIRADO</h3>
+							</header>
+							<p>Mezcladores carburados y especiales aire-gas GH diseñados especialmente para cada modelo. cuerpo de aluminio y boquilla de hierro zincado pegada con resina epoxica. de venturi fijo especialmente diseñado, para la optima mezcla aire-gas</p>
+							<ul class="actions">
+								<li><a href="#" class="button">LEER MAS</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic04.jpg" alt="" /></a>
+								<h3>RAMPA RAPIDA 2 OHMS GH PUMA 1</h3>
+							</header>
+							<p>RAMPA INYECTORES GNC GH2 RAPIDA,  PARA MOTORES 4 CILINDROS. ADAPTABLE A CUALQUIER MODELO DE ELECTRONICA. CUERPO DE NYLON NEGRO RESISTENTE A ALTAS TEMPERATURAS Y BAJO NIVEL SONORO. CON BOBINA DE 2 Ohms.</p>
+							<ul class="actions">
+								<li><a href="#" class="button">LEER MAS</a></li>
+							</ul>
+						</article>
+					</section>
+
+				<!-- CTA -->
+					<section id="cta" class="main special">
+						
+
+				<!-- Main -->
+				<!--
+					<section id="main" class="main">
+						<header>
+							<h2>Lorem ipsum dolor</h2>
+						</header>
+						<p>Fusce malesuada efficitur venenatis. Pellentesque tempor leo sed massa hendrerit hendrerit. In sed feugiat est, eu congue elit. Ut porta magna vel felis sodales vulputate. Donec faucibus dapibus lacus non ornare. Etiam eget neque id metus gravida tristique ac quis erat. Aenean quis aliquet sem. Ut ut elementum sem. Suspendisse eleifend ut est non dapibus. Nulla porta, neque quis pretium sagittis, tortor lacus elementum metus, in imperdiet ante lorem vitae ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam eget neque id metus gravida tristique ac quis erat. Aenean quis aliquet sem. Ut ut elementum sem. Suspendisse eleifend ut est non dapibus. Nulla porta, neque quis pretium sagittis, tortor lacus elementum metus, in imperdiet ante lorem vitae ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+					</section>
+				-->
+
+				<!-- Footer -->
+	
+						</ul>
+						<p class="copyright">&copy; Grillo Sebastian: Todos los derechos reservados a INDUSTRIAS GH. </div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+>>>>>>> 8abf4ecc967cce5ad69440505c178e00ce72ec21
+</html>

@@ -1,0 +1,53 @@
+header {
+	background:#014a17;
+	color:#fff;
+}
+
+.main {
+	background:#014a3c;
+	color:#fff;
+}
+
+.color1 {
+	background: #01344a;
+	color:#fff;
+}
+
+.color2 {
+	background: #3b014a;
+	color:#fff;
+}
+
+.color3 {
+	background: #4a1701;
+	color:#fff;
+}
+
+.color4 {
+	background: #0f4a01;
+	color:#fff;
+}
+aside {
+	background:#01104a;
+	color:#fff;
+}
+
+footer {
+	background:#17014a;
+	color:#fff;
+}
+.row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+  flex-wrap: wrap;
+}
+.row > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+	}
